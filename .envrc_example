@@ -1,0 +1,6 @@
+# node 18.16.0 path
+export PATH=
+
+export LANGFUSE_SECRET_KEY=""
+export LANGFUSE_PUBLIC_KEY=""
+export LANGFUSE_BASEURL=""
