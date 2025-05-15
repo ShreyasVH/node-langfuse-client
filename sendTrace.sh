@@ -1,0 +1,1 @@
+NODE_EXTRA_CA_CERTS=$HOME/workspace/myProjects/ssl/rootCA.crt node index.js
