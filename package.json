@@ -1,6 +1,6 @@
 {
   "dependencies": {
     "axios-debug-log": "^1.0.0",
-    "langfuse": "^3.38.6"
+    "langfuse": "^3.38.20"
   }
 }
