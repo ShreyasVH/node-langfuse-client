@@ -1,6 +1,6 @@
 node_modules/
 
 .envrc
-npmInstallLog.log
+npmInstall.log
 .idea
 ncuLog.txt
